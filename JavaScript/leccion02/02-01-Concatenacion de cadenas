@@ -1,0 +1,14 @@
+// Hoy ya no se usa Var, se utiliza let y Cont
+let Nombre2;"Pedro"; //Literal tipo string
+console.log(nombre) = soledad
+const Apellido2 = "lepes";
+Apellido2 = "Paris";
+console.log(Apellido2) = lepes
+
+let x,y; //se puede declarar,definir crear variables dentro de una misma linea
+x = 17,y = 21; // se puede hacer asignacion de varios variables dentro de la misma linea
+
+let_1rum = 31;
+let rompiendo = "rompe";
+console.log(_1rum)
+console.log(rompiendo)
