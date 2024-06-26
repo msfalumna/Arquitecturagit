@@ -31,3 +31,8 @@ const fechaNacimiento = 2006;
 console.log(fechaNacimiento);
 fechaNacimiento = 2003;
 console.log(fechaNacimiento); // solo se ejecuta el console anterior
+
+//evitar repetir tu codigo
+//Dry don t repeat yourself
+let days = "sabado";
+
